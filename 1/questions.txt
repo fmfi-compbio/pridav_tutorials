@@ -1,0 +1,5 @@
+1. Do you like quality of fit of linear model? Why?
+
+2. Do you like quality of fit of exponential model? Why?
+
+2. Do you like quality of fit of Poisson model? Why?
