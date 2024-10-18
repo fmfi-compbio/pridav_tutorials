@@ -2,4 +2,6 @@
 
 2. Do you like quality of fit of exponential model? Why?
 
-2. Do you like quality of fit of Poisson model? Why?
+3. Do you like quality of fit of Poisson model? Why?
+
+Do not forget to make your notebook parametrizable and run it via papermill.
