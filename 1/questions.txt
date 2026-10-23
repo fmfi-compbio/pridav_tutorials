@@ -1,7 +1,8 @@
 1. Do you like quality of fit of linear model? Why?
 
 2a. Do you like quality of fit of exponential model? Why?
-2b. How did you choose the epsilon?
+2b. How did you choose the epsilon? Provide either code + commentary or commentary + visual
+evidence.
 
 3. Do you like quality of fit of Poisson model? Why?
 
